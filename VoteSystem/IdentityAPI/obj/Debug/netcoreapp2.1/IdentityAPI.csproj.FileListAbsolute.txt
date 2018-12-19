@@ -1,0 +1,14 @@
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\bin\Debug\netcoreapp2.1\IdentityAPI.deps.json
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\bin\Debug\netcoreapp2.1\IdentityAPI.runtimeconfig.json
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\bin\Debug\netcoreapp2.1\IdentityAPI.runtimeconfig.dev.json
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\bin\Debug\netcoreapp2.1\IdentityAPI.dll
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.csprojAssemblyReference.cache
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.csproj.CoreCompileInputs.cache
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.RazorAssemblyInfo.cache
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.RazorAssemblyInfo.cs
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.AssemblyInfoInputs.cache
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.AssemblyInfo.cs
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.RazorTargetAssemblyInfo.cache
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\bin\Debug\netcoreapp2.1\IdentityAPI.pdb
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.dll
+D:\VoteSystem\VoteSystem\VoteSystem\IdentityAPI\obj\Debug\netcoreapp2.1\IdentityAPI.pdb
